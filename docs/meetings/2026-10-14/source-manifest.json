@@ -1,0 +1,54 @@
+{
+  "review_date": "2026-10-14",
+  "source_class": "user_provided_company_meeting_materials",
+  "files": [
+    {
+      "id": "MN01",
+      "path": "待确认问题1/会议文字记录.txt",
+      "size_bytes": 7242,
+      "sha256": "852c67ebb5703130e996afb0617d98d501eb55de68eb374ad968fea719c07a59",
+      "source_type": "user_prepared_meeting_text",
+      "added_to_review_date": "2026-10-14",
+      "line_count": 58,
+      "verification_note": "Compared with automatic transcript; not reverified word by word against audio."
+    },
+    {
+      "id": "QN01",
+      "path": "待确认问题1/待确认问题.pages",
+      "size_bytes": 321205,
+      "sha256": "f69e25baa6df7246def053b2e73fb2a29a2f530da972d6331edb45cf727ec673"
+    },
+    {
+      "id": "MT01",
+      "path": "待确认问题1/待确认问询1.m4a",
+      "size_bytes": 3139725,
+      "sha256": "0b89948aa2cbcc27a3505bf716c16b13dedd53ef7b707bde8e6e082ec2888820",
+      "recording_date_metadata": "2026-10-14T07:09:36Z",
+      "duration_seconds": 373.46
+    },
+    {
+      "id": "MT02",
+      "path": "待确认问题1/问询2.m4a",
+      "size_bytes": 5974133,
+      "sha256": "b1a840175b785bca26b0c4ace8daec66ce93cd9d5c8e4bd1ce6563a0ab38371b",
+      "recording_date_metadata": "2026-10-14T07:16:31Z",
+      "duration_seconds": 710.249333
+    },
+    {
+      "id": "MT03",
+      "path": "待确认问题1/问询3.m4a",
+      "size_bytes": 353476,
+      "sha256": "ae836c146bc6dbaa4f7965ea08f094d3029e0bf07376aa6125b4c2e7b64370f5",
+      "recording_date_metadata": "2026-10-14T07:29:01Z",
+      "duration_seconds": 40.916
+    },
+    {
+      "id": "MT04",
+      "path": "待确认问题1/问询4.m4a",
+      "size_bytes": 552286,
+      "sha256": "6d519349ce9276ff842b326523d0556301250b5ec7656e295522e14917bb2ffb",
+      "recording_date_metadata": "2026-10-14T07:29:44Z",
+      "duration_seconds": 64.894667
+    }
+  ]
+}
